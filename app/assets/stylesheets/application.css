@@ -103,3 +103,11 @@ p.item-title {
 .user-profile .status ul li .status-value {
   font-size: 18px;
 }
+
+.menu {
+  font-size: 18px;
+}
+
+.text-muted {
+  padding: 20px;
+}
